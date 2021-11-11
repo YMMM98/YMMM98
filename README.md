@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/YMMM98/YMMM98/blob/master/img/hello.gif" width="100%">
+  <img src="https://github.com/YMMM98/YMMM98/img/hello.gif" width="100%">
   <br><br>
   <samp>
     Hello guys <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px">, I'm Youssef, an AI enthusiast and mainly a Data Scientist who is interested in Software Engineering.
