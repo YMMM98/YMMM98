@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     Hello guys <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px">, I'm Youssef, an AI enthusiast and mainly a Data Scientist who is interested in Software Engineering.
-    I have a background in Industrial engineering, and I have a strong interest in how the brain functions and Medicine in general aswell as Psychology. <img src="https://media.giphy.com/media/1hQZvWM3kKnAy30vCa/giphy.gif" width="2%">.
+    I have a background in Industrial engineering, and I have a strong interest in how the brain functions, Medicine in general and Psychology. <img src="https://media.giphy.com/media/1hQZvWM3kKnAy30vCa/giphy.gif" width="2%">.
   </samp>
 </p>
 
