@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/YMMM98/YMMM98/img/hello.gif" width="100%">
+  <img src="https://github.com/YMMM98/YMMM98/blob/main/img/hello.gif" width="100%">
   <br><br>
   <samp>
     Hello guys <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px">, I'm Youssef, an AI enthusiast and mainly a Data Scientist who is interested in Software Engineering.
@@ -24,7 +24,8 @@
 ## :mailbox: Get in touch:
 [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30px">](https://www.linkedin.com/in/moutaouakkilyoussef/)
 
-
+${YMMM98}.${YMMM98}
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YMMM98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
