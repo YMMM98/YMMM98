@@ -8,11 +8,11 @@
 </p>
 
 ---
-- 🔭 I have professional experience in Deep Learning such as Time series forecasting (mainly on LSTMs and Transofrmers) for Customer complaints predicition and predictive maintenance.
+- 🔭 I have professional experience in Data analysis but also in Deep Learning such as Time series forecasting (for Customer complaints predicition and predictive maintenance).
 
 - ⚡ I participitated in multiple NLP and Computer Vision Competitions in Kaggle and have exeprience using State-of-the-art models such as BERT,ELMo,... for NLP and ViT,VGG19,.. for Computer Vision.
 
-- 🌱 I'm currently learning how to deploy and maintain models in production and monitor it to avoid Concept/Data drift.
+- 🌱 I'm currently learning how to deploy and maintain models in production and monitor it.
 
 - 👯 My passion is to collaborate with other AI enthusiast or experts in other fields on real life projects and leave an impact.
 
