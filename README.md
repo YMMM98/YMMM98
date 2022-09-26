@@ -7,19 +7,17 @@
 </p>
 
 ---
-- 🔭 I have professional experience in Data analysis but also in Deep Learning such as Time series forecasting (for Customer complaints predicition and predictive maintenance).
+- 🔭 I have professional experience in Data analysis (EDA, Visualization, Hypothesis testing, ...) as well as Machine learning (Time series forecasting, Image segmentation, ...)
 
-- ⚡ I participitated in multiple NLP and Computer Vision Competitions in Kaggle and have exeprience using State-of-the-art models such as BERT,ELMo,... for NLP and ViT,VGG19,.. for Computer Vision.
+- ⚡ I participitated in multiple NLP and Computer Vision Competitions in Kaggle and have exeprience using models such as BERT,ELMo,... for NLP and ViT,Mask R-CNN,.. for Computer Vision.
 
 - 🌱 I'm currently learning how to deploy and maintain models in production and monitor it.
-
-- 👯 My passion is to collaborate with other AI enthusiast or experts in other fields on real life projects and leave an impact.
 
 
 
 ## :trophy: Languages and Tools: :robot:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="50px">   <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40px">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="50px">    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/683px-ISO_C%2B%2B_Logo.svg.png" width="40px">    <img src="https://3wa.fr/wp-content/uploads/2020/04/sql-logo.png" width="50px">    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="45px">    <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px">   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px">    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px">   <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" width="50px">      <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" width="120px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="50px">   <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40px">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="50px">    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/683px-ISO_C%2B%2B_Logo.svg.png" width="40px">    <img src="https://3wa.fr/wp-content/uploads/2020/04/sql-logo.png" width="50px"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" width="50px">   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="45px">    <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px">   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px">    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px">   <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" width="50px">      <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" width="120px"> 
 
 
 ## :mailbox: Get in touch:
