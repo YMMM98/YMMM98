@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://github.com/YMMM98/YMMM98/blob/main/img/hello.gif" width="100%">
-  <br><br>
   <samp>
     Hi! <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px">, I'm Youssef, a junior data scientist with a background in Industrial engineering. <img src="https://media.giphy.com/media/1hQZvWM3kKnAy30vCa/giphy.gif" width="2%">.
   </samp>
