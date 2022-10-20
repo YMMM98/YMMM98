@@ -21,10 +21,10 @@
 
 ## :mailbox: Get in touch:
 [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30px">](https://www.linkedin.com/in/moutaouakkilyoussef/)
+
 youssef.moutaouakkil@esith.net
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YMMM98.id)
 <!--
 **YMMM98/YMMM98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
