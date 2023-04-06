@@ -9,9 +9,7 @@
 
 - 🔭 With a background spanning Data Science and industrial engineering, I enjoy solving complex business problems in a systematic way using data.
 
-- ⚡ I participitated in multiple NLP and Computer Vision Projects/Competitions in Kaggle and have exeprience using State-of-the-Art models for Computer vision and NLP.
-
-- 🌱 I'm currently learning how to deploy and maintain models in production and monitor it.
+- 🌱 I'm currently learning DevOps
 
 
 ## Languages and Tools: :robot:
