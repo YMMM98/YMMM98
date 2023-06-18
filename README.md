@@ -19,7 +19,7 @@
 
 ## :mailbox: Get in touch:
 
-<a href="mailto:youssefmoutaouakkil98@gmail.com"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0698449d50f2b95517562295a59d414afc68b369/svgs/regular/envelope-open.svg" align="left" height="50" width="50" ></a>
+<a href="mailto:youssefmoutaouakkil98@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" align="left" height="50" width="50" ></a>
 
 <a href="https://www.linkedin.com/in/moutaouakkilyoussef/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" align="left" height="50" width="50" ></a>
 
