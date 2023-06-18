@@ -7,7 +7,7 @@
 
 ## About me:
 
-- 🔭 With a background spanning Data Science and industrial engineering, I enjoy solving complex business problems in a systematic way using data.
+- 🔭 Passionate about computers & Astronomy
 
 - 🌱 I'm currently learning DevOps
 
@@ -18,10 +18,15 @@
 
 
 ## :mailbox: Get in touch:
-[<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30px">](https://www.linkedin.com/in/moutaouakkilyoussef/)
 
-youssef.moutaouakkil@esith.net
+<a href="mailto:youssefmoutaouakkil98@gmail.com"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0698449d50f2b95517562295a59d414afc68b369/svgs/regular/envelope-open.svg" align="left" height="50" width="50" ></a>
 
+<a href="https://www.linkedin.com/in/moutaouakkilyoussef/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" align="left" height="50" width="50" ></a>
+
+<a href="https://github.com/YMMM98"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" align="left" height="50" width="50" ></a>
+
+<br/>
+<br/>
 
 <!--
 **YMMM98/YMMM98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
