@@ -14,7 +14,7 @@
 
 ## Languages and Tools: :robot:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="50px">   <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40px">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="50px">    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/683px-ISO_C%2B%2B_Logo.svg.png" width="40px"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" width="50px">   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="45px">   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px">   <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" width="50px">     <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" width="120px"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="50px">   <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="40px">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/683px-ISO_C%2B%2B_Logo.svg.png" width="40px">   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="45px">   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px">   <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" width="50px">     <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" width="120px">
 
 
 ## :mailbox: Get in touch:
