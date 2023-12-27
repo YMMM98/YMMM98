@@ -7,9 +7,8 @@
 
 ## About me:
 
-- 🔭 Passionate about computers & Astronomy
-
-- 🌱 I'm currently learning DevOps
+- 🔭 Passionate about Computation & AI
+- 🏗️ I Enjoy Building Applications
 
 
 ## Languages and Tools: :robot:
