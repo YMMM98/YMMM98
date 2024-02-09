@@ -7,7 +7,7 @@
 
 ## About me:
 
-- 🔭 Passionate about Computation & AI
+- 🔭 Passionate about Software & AI
 - 🏗️ I Enjoy Building Applications
 
 
