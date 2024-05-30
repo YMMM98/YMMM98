@@ -1,12 +1,12 @@
 <p align="center">
   <samp>
-    Hi! <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px">, I'm Youssef, A Data Scientist with 2 YoE and a background in Industrial engineering. <img src="https://media.giphy.com/media/1hQZvWM3kKnAy30vCa/giphy.gif" width="2%">.
+    Hi! <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px">, I'm Youssef, a Data Scientist with 2 YoE and a background in Industrial engineering. <img src="https://media.giphy.com/media/1hQZvWM3kKnAy30vCa/giphy.gif" width="2%">.
   </samp>
 </p>
 
 
 ## About me:
-
+- ✨ Mostly working on V/LLMs lately
 - 🔭 Passionate about Software & AI
 - 🏗️ I Enjoy Building Applications
 
