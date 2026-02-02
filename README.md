@@ -6,9 +6,8 @@
 
 
 ## About me:
-- ✨ Mostly working on V/LLMs lately
-- 🔭 Passionate about Software & AI
-- 🏗️ I Enjoy Building Applications
+- ✨ Mostly working on agents and improving long context window lately
+- 🔭 Passionate about Automation
 
 
 ## Languages and Tools: :robot:
