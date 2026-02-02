@@ -13,10 +13,8 @@
 
 
 ## Get in touch:
-
-<a href="mailto:youssefmoutaouakkil98@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" align="left" height="50" width="50" ></a>
-
-<a href="https://www.linkedin.com/in/moutaouakkilyoussef/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" align="left" height="50" width="50" ></a>
+youssefmoutaouakkil98@gmail.com
+https://www.linkedin.com/in/moutaouakkkil/
 
 <br/>
 <br/>
