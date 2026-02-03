@@ -1,36 +1,30 @@
-<p align="center">
-  <samp>
-    Hi! <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px">, I'm Youssef, a Data Scientist / AI Engineer with 4 YoE and a background in Industrial engineering.
-  </samp>
-</p>
+<div align="center">
+  <p>
+    <b>Senior Data Scientist / AI Engineer</b><br>
+    4+ YoE • Industrial Engineering Background
+  </p>
+</div>
 
+<br />
 
-## About me:
-✨ Mostly working on agents and improving long context window lately
+### About Me
+I enjoy automating & optimising things.
 
-🔭 Passionate about Automation and Optimisation problems
+Currently into **Agentic Workflows (V/LLMs)**, specifically solving orchestration challenges in long-context environments.
 
+### 🛠️ Technical Focus
+*   **AI & LLMs:** Multimodal transformers, RAG Systems, Human-in-the-Loop AI systems, Model Quantization, TensorFlow/PyTorch
+*   **Engineering:** C++ Ops for Inference (TF Serving), Microservices (FastAPI), Docker...
+*   **Data & MLOps:** Optimization Pipelines, Distributed Computing.
 
+---
 
-## Get in touch:
-youssefmoutaouakkil98@gmail.com
-
-https://www.linkedin.com/in/moutaouakkkil/
-
-<br/>
-<br/>
-
-<!--
-**YMMM98/YMMM98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <h3>📫 Get in touch</h3>
+  <a href="mailto:youssefmoutaouakkil98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/moutaouakkil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
