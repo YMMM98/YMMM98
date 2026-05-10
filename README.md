@@ -21,6 +21,6 @@ Currently into **Agentic Workflows**, specifically solving orchestration challen
 
 <div align="left">
   <h3>📫 Get in touch</h3>
-youssefmoutaouakkil98@gmail.com
-https://www.linkedin.com/in/moutaouakkkil/ 
+  <a href="mailto:youssefmoutaouakkil98@gmail.com">youssefmoutaouakkil98@gmail.com</a><br>
+  <a href="https://www.linkedin.com/in/moutaouakkkil/">LinkedIn</a>
 </div>
